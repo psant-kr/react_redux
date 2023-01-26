@@ -1,0 +1,91 @@
+body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.main {
+    width: 100%;
+    text-align: center;
+
+
+}
+
+.h1 {
+    font-size: 40px;
+    color: #282c34;
+
+}
+
+.h3 {
+    font-size: 30px;
+    color: #282c34;
+}
+
+.btn {
+    width: 100px;
+    height: 40px;
+    background-color: dimgray;
+    font-size: 30px;
+    font-weight: bold;
+    border-radius: 5px;
+    border: 2px solid khaki;
+    color: white;
+}
+
+.input {
+    width: 200px;
+    padding: 10px;
+    border: 2px solid darkgrey;
+    border-radius: 5px;
+    margin: 0 10px 0 10px;
+    text-align: center;
+    font-size: 15px;
+    font-weight: bolder;
+    background-color: whitesmoke;
+    color: darkblue;
+
+}
+
+.div {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.btn1 {
+    margin-top: 50px;
+    padding: 20px 50px;
+    background-color: cornsilk;
+    font-size: 30px;
+    font-weight: bold;
+    border-radius: 5px;
+    border: 2px solid khaki;
+    color: darkblue;
+
+}
+
+.link {
+    text-decoration: none;
+}
+
+table, th, td {
+    border: 1px solid white;
+    border-collapse: collapse;
+    color: black;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+th, td {
+    background-color: #96D4D4;
+}
